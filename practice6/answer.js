@@ -25,7 +25,7 @@ class Dog extends Component {
       this.setState({
         isRunning: false,
         isBarking: false
-      })
+      });
     }, 20);
   }
  
